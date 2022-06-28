@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Reactjs-exponseTracker/static/css/main.708a4d9b.chunk.css",
+    "main.js": "/Reactjs-exponseTracker/static/js/main.790ad1b4.chunk.js",
+    "main.js.map": "/Reactjs-exponseTracker/static/js/main.790ad1b4.chunk.js.map",
+    "runtime-main.js": "/Reactjs-exponseTracker/static/js/runtime-main.7cfeb5b5.js",
+    "runtime-main.js.map": "/Reactjs-exponseTracker/static/js/runtime-main.7cfeb5b5.js.map",
+    "static/js/2.b190f742.chunk.js": "/Reactjs-exponseTracker/static/js/2.b190f742.chunk.js",
+    "static/js/2.b190f742.chunk.js.map": "/Reactjs-exponseTracker/static/js/2.b190f742.chunk.js.map",
+    "index.html": "/Reactjs-exponseTracker/index.html",
+    "precache-manifest.039060f58b8c7b7c7653077abdcfff65.js": "/Reactjs-exponseTracker/precache-manifest.039060f58b8c7b7c7653077abdcfff65.js",
+    "service-worker.js": "/Reactjs-exponseTracker/service-worker.js",
+    "static/css/main.708a4d9b.chunk.css.map": "/Reactjs-exponseTracker/static/css/main.708a4d9b.chunk.css.map",
+    "static/js/2.b190f742.chunk.js.LICENSE.txt": "/Reactjs-exponseTracker/static/js/2.b190f742.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cfeb5b5.js",
+    "static/js/2.b190f742.chunk.js",
+    "static/css/main.708a4d9b.chunk.css",
+    "static/js/main.790ad1b4.chunk.js"
+  ]
+}
